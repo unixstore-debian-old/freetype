@@ -1221,3 +1221,4 @@ renamed '/root/git/src/freetype_2.12.1.orig.tar.xz' -> '/root/git/dst/freetype_2
 renamed '/root/git/src/freetype_2.12.1-1000.dsc' -> '/root/git/dst/freetype_2.12.1-1000.dsc'
 renamed '/root/git/src/build.log' -> '/root/git/dst/build.log'
 renamed '/root/git/src/git.debian.log' -> '/root/git/dst/git.debian.log'
+Copy GitHub Action 'mirror.yml' to repository...
